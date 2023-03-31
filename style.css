@@ -1,0 +1,35 @@
+body {
+	background-color: #e1d6c9;
+	font-family: Arial, sans-serif;
+}
+
+h1 {
+	color: #745b71;
+	text-align: center;
+	margin-top: 50px;
+}
+
+button {
+	display: block;
+	margin: 50px auto;
+	padding: 10px 20px;
+	background-color: #d5b9bd;
+	color: #745b71;
+	border: none;
+	border-radius: 5px;
+	font-size: 18px;
+	cursor: pointer;
+}
+
+#contenedor-perrito {
+	display: none;
+	margin: 50px auto;
+	max-width: 600px;
+}
+
+#contenedor-perrito img {
+	max-width: 100%;
+	height: auto;
+	display: block;
+	margin: 0 auto;
+}
